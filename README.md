@@ -6,7 +6,6 @@ Full-Stack Developer at [Deskzone](https://deskzone.org/);<br>
 
 - ⚙️ I use daily: `.js`, `.ts` ,`.html`, `.css`, `.sass`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm actively engaged on **LinkedIn**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 💬 `ping` me about **design**, **branding**, **javascript**, **development**, **design thinking**
 
 ## Technologies
@@ -46,6 +45,7 @@ Full-Stack Developer at [Deskzone](https://deskzone.org/);<br>
 Here are some ideas to get you started:
 
 Host/Organizing [Softenmedia](https://softenmedia.com);<br>
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 
 
 - 🔭 I’m currently working on ...

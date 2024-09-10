@@ -38,6 +38,7 @@ Full-Stack Developer at [Deskzone](https://deskzone.org/);<br>
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![MUI](https://img.shields.io/badge/-MUI-black?style=flat-square&logo=mui)
 
+[![Linkedin: talhaashraf05](https://img.shields.io/badge/-talhaashraf05-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talhaashraf45/)](https://www.linkedin.com/in/talhaashraf45/)
 
 <!--
 **Talhaashraf05/Talhaashraf05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

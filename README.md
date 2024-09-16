@@ -1,6 +1,9 @@
 ### Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
-#### A Full-Stack Developer by day ☼ and a Tech Innovator by night ☾
+#### I'm a passionate software engineer.
+A Full-Stack Developer by day ☼ and a Tech Innovator by night ☾. When I'm not coding, you'll find me enjoying biking, playing fortnite, or helping beginners with coding.
+
+I'm dedicated to full-stack development. I started my coding journey in late 2020 with Javascript. Since then, I've grown to develop various applications, including SaaS enterprise projects, a TypeScript framework and various JS frameworks.
 
 Full-Stack Developer at [Deskzone](https://deskzone.org/);<br>
 

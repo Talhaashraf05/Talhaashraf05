@@ -5,7 +5,7 @@ A Full-Stack Developer by day ☼ and a Tech Innovator by night ☾. When I'm no
 
 I'm dedicated to full-stack development. I started my coding journey in late 2020 with Javascript. Since then, I've grown to develop various applications, including SaaS enterprise projects, a TypeScript framework and various JS frameworks.
 
-Full-Stack Developer at [Deskzone](https://deskzone.org/);<br>
+Full-Stack Developer <br>
 
 - ⚙️ I use daily: `.js`, `.ts` ,`.html`, `.css`, `.sass`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm actively engaged on **LinkedIn**
